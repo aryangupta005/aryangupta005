@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
-<h3 align="center">Hey there! I'm Aryan Gupta , a passionate and enthusiastic sophomore at BVCOE (Bharati Vidyapeeth's College of Engineering) with a projected graduation year of '26. I am thrilled to share my journey and showcase my skills in the world of technology and problem-solving.</h3>
+<h3 align="center">Hey there! I'm Aryan Gupta , a passionate and enthusiastic sophomore at BVCOE (Bharati Vidyapeeth's College of Engineering) with a projected graduation year of '26. I am thrilled to share my journey and showcase my skills in the world of technology and problem-solving. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryangupta005&label=Profile%20views&color=0e75b6&style=flat" alt="aryangupta005" /> </p>
 
